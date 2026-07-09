@@ -1,47 +1,58 @@
 # Hi there! I'm zepora-dan <img src="https://media.giphy.com/media/hvXCLtE65Qf4al07g3/giphy.gif" width="35px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&width=435&lines=Software+Developer;Python+%26+JavaScript+Lover;Building+Automation+Bots)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=500&lines=Software+Engineer;Bot+Automation+Expert;Web+Dev+%26+Security+System;Building+Secure+Infrastructure)
 
-I am a developer focused on building software solutions, automation tools, and web applications. I love taking ideas and turning them into functional code.
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on a public **Todo List Application** to master clean software structures and Git.
-- ⚡ I enjoy building automation bots and exploring software development.
-- 💬 Ask me about anything related to computer programming!
+I am a software developer specializing in building intelligent **bot automation systems**, full-stack **website development**, and robust **cybersecurity defenses**. I focus on merging efficiency with digital security.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Areas of Expertise
+- 🤖 **Bot Automation:** Building scalable web scrapers, API-driven workflows, and interactive community bots (Discord/Telegram).
+- 🌐 **Web Development:** Engineering fast, responsive websites with secure backend infrastructures.
+- 🛡️ **Security Systems:** Implementation of access controls, data encryption, API token protection, and secure coding practices.
+- ⚙️ **DevOps & Architecture:** Version control optimization using Git/GitHub and structuring clean, maintainable codebases.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
+### 🛠️ Core Tech Stack & Tools
+
+**Languages & Core Web:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Security & Infrastructure:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JSON Web Tokens](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Technical Projects
 
-#### 📝 Project 1: Todo List Software
-A public application built to help users manage tasks efficiently.
-- **Tech Stack:** JavaScript, HTML, CSS
+#### 🤖 Project 1: Advanced Bot Automation Engine
+A multi-threaded automation script configured to monitor real-time data, handle asynchronous tasks, and manage data integration securely via protected endpoints.
+- **Concepts:** Asynchronous Event Handling, API Integration, Secure Token Environment Variables (`.env`)
+- **Tech Stack:** Python, Logic Handlers
+
+#### 🛡️ Project 2: Secure Web & Todo Architecture
+A full-featured task management platform engineered with secure UI layouts, protecting client-side data entry and ensuring seamless user persistence.
+- **Concepts:** DOM Manipulation, Client-side Security, State Persistence
+- **Tech Stack:** JavaScript, HTML5, CSS3
 - [👉 View Repository](https://github.com/zepora-dan/My-portfolio)
 
-#### 🤖 Project 2: Automation Bot
-An automated tool built to handle repetitive tasks or platform scripts.
-- **Tech Stack:** Python
+#### 🔑 Project 3: Network Security & Encryption Module
+An implementation of cryptography algorithms and secure user authentication setups designed to mitigate unauthorized access to web platforms.
+- **Concepts:** Hash Functions, Data Masking, Access Token Security
 
 ---
 
 ### 📊 My GitHub Stats
 
-![zepora-dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepora-dan&show_icons=true&theme=radial)
+![zepora-dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepora-dan&show_icons=true&theme=dark)
 
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [github.com/zepora-dan](https://github.com/zepora-dan)
+- **GitHub Account:** [github.com/zepora-dan](https://github.com/zepora-dan)
+- **Collaboration Inquiries:** your.email@example.com
