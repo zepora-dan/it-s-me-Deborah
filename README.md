@@ -1,5 +1,8 @@
 # Hi there! I'm Deborah <img src="https://media.giphy.com/media/hvXCLtE65Qf4al07g3/giphy.gif" width="35px">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+  <h1 align="center">Hi there, I'm Deborah! 👋</h1>
+</p>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=500&lines=Software+Engineer;Bot+Automation+Expert;Web+Dev+%26+Security+System;Building+Secure+Infrastructure)
 
 I am a software developer specializing in building intelligent **bot automation systems**, full-stack **website development**, and robust **cybersecurity defenses**. I focus on merging efficiency with digital security.
