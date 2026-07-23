@@ -16,60 +16,58 @@ I am a software developer specializing in building intelligent **bot automation 
 ---
 
 ### 🛠️ Core Tech Stack & Tools
-
 ### 🛠️ Core Tech Stack & Tools
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/javascript.svg" width="48" height="48" alt="JavaScript" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/python.svg" width="48" height="48" alt="Python" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/typescript.svg" width="48" height="48" alt="TypeScript" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/react.svg" width="48" height="48" alt="React" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/nodejs.svg" width="48" height="48" alt="Node.js" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>
       <sub><b>PostgreSQL</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/flutter.svg" width="48" height="48" alt="Flutter" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /><br>
       <sub><b>Flutter</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/html-5.svg" width="48" height="48" alt="HTML5" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br>
       <sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/css3.svg" width="48" height="48" alt="CSS3" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br>
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/git.svg" width="48" height="48" alt="Git" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/linux.svg" width="48" height="48" alt="Linux" /><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>
       <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
-
 **Full-App Development & Infrastructure:**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" style="vertical-align: middle; margin-right: 10px;" />
