@@ -16,7 +16,6 @@ I am a software developer specializing in building intelligent **bot automation 
 ---
 
 ### 🛠️ Core Tech Stack & Tools
-### 🛠️ Core Tech Stack & Tools
 
 **Languages & Core Web:**
 <p>
@@ -45,7 +44,37 @@ I am a software developer specializing in building intelligent **bot automation 
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
----
+---### 🛠️ Core Tech Stack & Tools
+
+**Languages & Core Web (Animated Icons):**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" style="vertical-align: middle; margin-right: 10px;" />
+</p>
+
+**Full-App Development & Infrastructure:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="vertical-align: middle; margin-right: 10px;" />
+</p>
+
+**Interactive Sliding Ticker:**
+<marquee behavior="alternate" scrollamount="4">
+  <code>⚡ Python</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ JavaScript</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ TypeScript</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ Flutter & Dart</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ React & Node.js</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ PostgreSQL</code> &nbsp;&bull;&nbsp; 
+  <code>⚡ Git & Linux</code>
+</marquee>
 
 ### 📊 GitHub Activity & Stats Motion
 You can also add live animated stat graphs which automatically move and track your commits:
