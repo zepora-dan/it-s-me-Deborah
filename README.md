@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
   <h1 align="center">Hi there, I'm Deborah! 👋</h1>
 </p>
+[![View My Live Portfolio](https://img.shields.io/badge/🚀_View_My_Live_Portfolio-Click_Here-FF7B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zepora-dan.github.io/My-portfolio/)
 
 I am a software developer specializing in building intelligent **bot automation systems**, full-stack **website development**, and robust **cybersecurity defenses**. I focus on merging efficiency with digital security.
 
