@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineering student who loves turning ideas into working apps — from productivity tools to chatbots to finance trackers. Currently deepening my skills in databases, APIs, and clean full-stack architecture.
+I'm a Software Engineering student at diredawa university who loves turning ideas into working apps — from productivity tools to chatbots to finance trackers. Currently deepening my skills in databases, APIs, and clean full-stack architecture.
 
 🌐 **See it all in action:** [zepora-dan.github.io/My-portfolio](https://zepora-dan.github.io/My-portfolio/)
 
