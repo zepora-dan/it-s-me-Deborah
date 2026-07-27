@@ -2,16 +2,9 @@
 
 # Hi, I'm Deborah 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Building+Bots%2C+Apps+%26+Utilities;Always+Learning+Something+New" />
-
-💻 Full Stack Developer  
-🌐 Web Designer  
-🗄️ Database Enthusiast  
-⚙️ Software Engineering Student  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Web+Designer;Database+Enthusiast;Software+Engineering+Student;Building+Bots%2C+Apps+%26+Utilities;Always+Learning+Something+New" />
 
 </div>
-
----
 
 ### 🚀 About Me
 
