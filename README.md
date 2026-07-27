@@ -1,123 +1,54 @@
-# Hi there, I'm Deborah! 👋
+<div align="center">
 
-[![View My Live Portfolio](https://img.shields.io/badge/🚀_View_My_Live_Portfolio-Click_Here-FF7B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zepora-dan.github.io/My-portfolio/)
+# Hi, I'm Deborah 👋
 
-I am a software developer specializing in building intelligent bot automation systems, full-stack website development, and robust cybersecurity defenses. I focus on merging efficiency with digital security.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF7B00&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Building+Bots%2C+Apps+%26+Utilities;Always+Learning+Something+New" alt="Typing SVG" />
 
-I am a software developer specializing in building intelligent **bot automation systems**, full-stack **website development**, and robust **cybersecurity defenses**. I focus on merging efficiency with digital security.
-
----
-
-### 🚀 Areas of Expertise
-- 🤖 **Bot Automation:** Building scalable web scrapers, API-driven workflows, and interactive community bots (Discord/Telegram).
-- 🌐 **Web Development:** Engineering fast, responsive websites with secure backend infrastructures.
-- 🛡️ **Security Systems:** Implementation of access controls, data encryption, API token protection, and secure coding practices.
-- ⚙️ **DevOps & Architecture:** Version control optimization using Git/GitHub and structuring clean, maintainable codebases.
+</div>
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
-### 🛠️ Core Tech Stack & Tools
+### 🚀 About Me
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /><br>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
-**Full-App Development & Infrastructure:**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" style="vertical-align: middle; margin-right: 10px;" />
+I'm a Software Engineering student who loves turning ideas into working apps — from productivity tools to chatbots to finance trackers. Currently deepening my skills in databases, APIs, and clean full-stack architecture.
+
+🌐 **See it all in action:** [zepora-dan.github.io/My-portfolio](https://zepora-dan.github.io/My-portfolio/)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,cpp,java,dart,flutter,git,github" />
 </p>
 
-**Interactive Sliding Ticker:**
-<marquee behavior="alternate" scrollamount="4">
-  <code>⚡ Python</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ JavaScript</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ TypeScript</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ Flutter & Dart</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ React & Node.js</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ PostgreSQL</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ Git & Linux</code>
-</marquee>
+---
 
-### 📊 GitHub Activity & Stats Motion
-You can also add live animated stat graphs which automatically move and track your commits:
+### 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zepora-dan&show_icons=true&theme=tokyonight&animate_icons=true" alt="Deborah's GitHub Stats" />
+| Project | Description | Stack |
+|---|---|---|
+| 📝 **Todo List App** | Task manager with priority tracking | HTML · CSS · JS |
+| 💰 **FinFlow** | Cash flow & budget tracking app | React · Node · PostgreSQL |
+| 📚 **Digital Library** | Amharic & English literature repository | React · Node · PostgreSQL |
+| 🗣️ **Language Practicing Bot** | Conversational language practice tool | JavaScript |
+| 🤖 **Discord Book Bot** | Suggests books to server members | Node.js · Discord.js |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zepora-dan&show_icons=true&theme=dark&hide_border=true&title_color=FF7B00&icon_color=FF7B00" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zepora-dan&theme=dark&hide_border=true&ring=FF7B00&fire=FF7B00" height="165"/>
 </p>
-#### 🤖 Project 1: Advanced Bot Automation Engine
-A multi-threaded automation script configured to monitor real-time data, handle asynchronous tasks, and manage data integration securely via protected endpoints.
-- **Concepts:** Asynchronous Event Handling, API Integration, Secure Token Environment Variables (`.env`)
-- **Tech Stack:** Python, Logic Handlers
-
-#### 🛡️ Project 2: Secure Web & Todo Architecture
-A full-featured task management platform engineered with secure UI layouts, protecting client-side data entry and ensuring seamless user persistence.
-- **Concepts:** DOM Manipulation, Client-side Security, State Persistence
-- **Tech Stack:** JavaScript, HTML5, CSS3
-- [👉 View Repository](https://github.com/zepora-dan/My-portfolio)
-
-#### 🔑 Project 3: Network Security & Encryption Module
-An implementation of cryptography algorithms and secure user authentication setups designed to mitigate unauthorized access to web platforms.
-- **Concepts:** Hash Functions, Data Masking, Access Token Security
 
 ---
 
-### 📊 My GitHub Stats
+### 📫 Let's Connect
 
-![zepora-dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepora-dan&show_icons=true&theme=dark)
-
----
-
-### 📫 Connect with Me
-- **GitHub Account:** [github.com/zepora-dan](https://github.com/zepora-dan)
-- **Collaboration Inquiries:** zepora-dan@gmail.com
+<p align="left">
+  <a href="mailto:deborahdaniels321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deborah-daniel-096a3a349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/zepora_dan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
